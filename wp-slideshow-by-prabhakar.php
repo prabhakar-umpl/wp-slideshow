@@ -3,7 +3,7 @@
 /**
  * The assignment plugin
  *
- * This plugin is created for assignment where user can add multiple slideshow in their post or
+ * This plugin is created for assignment where user can add slideshow in their post or
  * page with desired order of image display
  * @link              https://github.com/prabhakar-umpl/wp-slideshow
  * @since             1.0.0
