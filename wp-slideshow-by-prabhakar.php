@@ -5,13 +5,13 @@
  *
  * This plugin is created for assignment where user can add slideshow in their post or
  * page with desired order of image display
- * @link              https://github.com/prabhakar-umpl/wp-slideshow
+ * @link              https://github.com/prabhakar-umpl/wp-slideshow-by-prabhakar
  * @since             1.0.0
  * @package           WP_Slideshow_By_Prabhakar
  *
  * @wordpress-plugin
  * Plugin Name:       WP SlideShow By Prabhakar
- * Plugin URI:        https://github.com/prabhakar-umpl/wp-slideshow
+ * Plugin URI:        https://github.com/prabhakar-umpl/wp-slideshow-by-prabhakar
  * Description:       This plugin is created for assignment where user can add multiple slideshow in their post or page with desired order of image display.
  * Version:           1.0.0
  * Author:            Prabhakar Kumar Shaw
